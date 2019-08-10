@@ -64,3 +64,77 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+body{
+	width: 1000px;
+	margin: auto;
+}
+.topnav{
+	display:inline-block;
+	text-decoration: none;
+	margin: 50px;
+	color: lightgray;
+	word-spacing: 65px;
+}
+.picture{
+transform: scale(1.0) translate(142%, -40%);
+}
+.innovation{
+	font-size: 75px;
+	width:100px;
+	transform: scale(1.0) translate(260%, 16%);
+}
+
+.content{
+ display:inline-block;
+ width:498px;
+}
+.content-1{
+	display: inline-block;
+	width: 330px;
+}
+
+.middle-img{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	width: 1000px;
+}
+.topBorder{
+	border-top:2px solid black;
+	margin: -97px 0 47px 0;
+}
+.bottomLine{
+	border-top:2px solid black;
+	margin: 45px 0 53px 0;
+}
+footer p{
+	margin: 20px;
+}
+.copyright{
+	margin: 73px 391px;
+}
+a{
+	text-decoration: none;
+	color: grey;
+}
+.topheader{
+	margin: 20px auto;
+	border: 1px;
+	transform: scale(4) translate(432px, 19px);
+}
+.headerImage{
+	margin: 50px auto;
+	
+}
+h2{
+	margin: -10px 0 5px 21px;
+}
+button{
+    padding: 12px 53px;
+    border: 1px solid black;
+    text-align: center;
+    background: white;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	transform: translate(246px, 166px);
+}
